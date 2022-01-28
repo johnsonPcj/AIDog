@@ -9,7 +9,7 @@
 # or:python classify.py -m output/Garbage.model -l output/category_lb.pickle -c output/color_lb.pickle\
 #	--image examples/2.jpg
 
-"""in windows OS,classify.py CLI need file directory:
+"""in windows OS,classify.py CLI need file directory,file directory is according to yourselef ,for example:
 D:\mylab\cv\FruitNet>python classify.py -m output/Garbage.model -l output/category_lb.pickle -c output/color_lb.pickle \
 -i examples/2.jpg
 """

@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{67708f40-71f8-4bc7-937c-a185eb4fde52}</ProjectGuid>
+    <ProjectHome />
+    <StartupFile>classify.py</StartupFile>
+    <SearchPath />
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <ProjectTypeGuids>{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <InterpreterId />
+    <CommandLineArguments>--model output/Garbage.model  --categorybin output/category_lb.pickle --colorbin output/color_lb.pickle  --image examples/2.jpg</CommandLineArguments>
+    <EnableNativeCodeDebugging>True</EnableNativeCodeDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
+  <PropertyGroup>
+    <VisualStudioVersion Condition=" '$(VisualStudioVersion)' == '' ">10.0</VisualStudioVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="dataset\Green_Cans\1.jpg" />
+    <Content Include="dataset\Green_Cans\10.jpg" />
+    <Content Include="dataset\Green_Cans\11.jpg" />
+    <Content Include="dataset\Green_Cans\12.jpg" />
+    <Content Include="dataset\Green_Cans\13.jpg" />
+    <Content Include="dataset\Green_Cans\14.jpg" />
+    <Content Include="dataset\Green_Cans\15.jpg" />
+    <Content Include="dataset\Green_Cans\16.jpg" />
+    <Content Include="dataset\Green_Cans\17.jpg" />
+    <Content Include="dataset\Green_Cans\19.jpg" />
+    <Content Include="dataset\Green_Cans\2.jpg" />
+    <Content Include="dataset\Green_Cans\20.jpg" />
+    <Content Include="dataset\Green_Cans\4.jpg" />
+    <Content Include="dataset\Green_Cans\5.jpg" />
+    <Content Include="dataset\Green_Cans\7.jpg" />
+    <Content Include="dataset\Green_Cans\9.jpg" />
+    <Content Include="dataset\Grey_Batteries\1.jpg" />
+    <Content Include="dataset\Grey_Batteries\10.jpg" />
+    <Content Include="dataset\Grey_Batteries\12.jpg" />
+    <Content Include="dataset\Grey_Batteries\13.jpg" />
+    <Content Include="dataset\Grey_Batteries\14.jpg" />
+    <Content Include="dataset\Grey_Batteries\16.jpg" />
+    <Content Include="dataset\Grey_Batteries\17.jpg" />
+    <Content Include="dataset\Grey_Batteries\18.jpg" />
+    <Content Include="dataset\Grey_Batteries\19.jpg" />
+    <Content Include="dataset\Grey_Batteries\2.jpg" />
+    <Content Include="dataset\Grey_Batteries\20.jpg" />
+    <Content Include="dataset\Grey_Batteries\3.jpg" />
+    <Content Include="dataset\Grey_Batteries\4.jpg" />
+    <Content Include="dataset\Grey_Batteries\6.jpg" />
+    <Content Include="dataset\Grey_Batteries\7.jpg" />
+    <Content Include="dataset\Grey_Batteries\8.jpg" />
+    <Content Include="dataset\Grey_Cans\1.jpg" />
+    <Content Include="dataset\Grey_Cans\11.jpg" />
+    <Content Include="dataset\Grey_Cans\12.jpg" />
+    <Content Include="dataset\Grey_Cans\13.jpg" />
+    <Content Include="dataset\Grey_Cans\14.png" />
+    <Content Include="dataset\Grey_Cans\15.png" />
+    <Content Include="dataset\Grey_Cans\16.jpg" />
+    <Content Include="dataset\Grey_Cans\17.jpg" />
+    <Content Include="dataset\Grey_Cans\18.jpg" />
+    <Content Include="dataset\Grey_Cans\19.jpg" />
+    <Content Include="dataset\Grey_Cans\2.jpg" />
+    <Content Include="dataset\Grey_Cans\20.jpg" />
+    <Content Include="dataset\Grey_Cans\3.jpg" />
+    <Content Include="dataset\Grey_Cans\4.jpg" />
+    <Content Include="dataset\Grey_Cans\5.jpg" />
+    <Content Include="dataset\Grey_Cans\6.jpg" />
+    <Content Include="dataset\Grey_Cans\7.jpg" />
+    <Content Include="dataset\Grey_Cans\8.jpg" />
+    <Content Include="dataset\Grey_Cans\9.jpg" />
+    <Content Include="dataset\Red_Bottles\1.jpg" />
+    <Content Include="dataset\Red_Bottles\10.jpg" />
+    <Content Include="dataset\Red_Bottles\11.jpg" />
+    <Content Include="dataset\Red_Bottles\12.jpg" />
+    <Content Include="dataset\Red_Bottles\13.jpg" />
+    <Content Include="dataset\Red_Bottles\14.jpg" />
+    <Content Include="dataset\Red_Bottles\15.jpg" />
+    <Content Include="dataset\Red_Bottles\16.jpg" />
+    <Content Include="dataset\Red_Bottles\17.jpg" />
+    <Content Include="dataset\Red_Bottles\18.jpg" />
+    <Content Include="dataset\Red_Bottles\19.png" />
+    <Content Include="dataset\Red_Bottles\2.jpg" />
+    <Content Include="dataset\Red_Bottles\20.jpg" />
+    <Content Include="dataset\Red_Bottles\3.jpg" />
+    <Content Include="dataset\Red_Bottles\4.jpg" />
+    <Content Include="dataset\Red_Bottles\5.jpg" />
+    <Content Include="dataset\Red_Bottles\7.jpg" />
+    <Content Include="dataset\Red_Bottles\8.jpg" />
+    <Content Include="dataset\Red_Bottles\9.jpg" />
+    <Content Include="dataset\Red_Cans\1.jpg" />
+    <Content Include="dataset\Red_Cans\10.jpg" />
+    <Content Include="dataset\Red_Cans\11.jpg" />
+    <Content Include="dataset\Red_Cans\12.jpg" />
+    <Content Include="dataset\Red_Cans\15.jpg" />
+    <Content Include="dataset\Red_Cans\16.png" />
+    <Content Include="dataset\Red_Cans\17.jpg" />
+    <Content Include="dataset\Red_Cans\19.jpg" />
+    <Content Include="dataset\Red_Cans\2.jpg" />
+    <Content Include="dataset\Red_Cans\3.jpg" />
+    <Content Include="dataset\Red_Cans\4.jpg" />
+    <Content Include="dataset\Red_Cans\5.jpg" />
+    <Content Include="dataset\Red_Cans\6.jpg" />
+    <Content Include="dataset\Red_Cans\7.jpg" />
+    <Content Include="dataset\Red_Cans\8.jpg" />
+    <Content Include="dataset\Red_Cans\9.jpg" />
+    <Content Include="examples\1.jpg" />
+    <Content Include="examples\2.jpg" />
+    <Content Include="examples\3.jpg" />
+    <Content Include="examples\4.jpg" />
+    <Content Include="examples\5.jpg" />
+    <Content Include="examples\6.jpg" />
+    <Content Include="output_accs.png" />
+    <Content Include="output_losses.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="classify.py" />
+    <Compile Include="pyimagesearch\fashionnet.py" />
+    <Compile Include="pyimagesearch\__init__.py" />
+    <Compile Include="train.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="dataset\" />
+    <Folder Include="dataset\Green_Cans" />
+    <Folder Include="dataset\Grey_Batteries" />
+    <Folder Include="dataset\Grey_Cans" />
+    <Folder Include="dataset\Red_Bottles" />
+    <Folder Include="dataset\Red_Cans" />
+    <Folder Include="examples" />
+    <Folder Include="pyimagesearch" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+</Project>

@@ -1,10 +1,10 @@
 # USAGE
-# python train.py --dataset dataset --model output/fruits.model \
+# python train.py --dataset dataset --model output/Garbage.model \
 #	--categorybin output/category_lb.pickle --colorbin output/color_lb.pickle
-# or:python train.py -d dataset -m output/fruits.model -l output/category_lb.pickle -c output/color_lb.pickle
+# or:python train.py -d dataset -m output/Garbage.model -l output/category_lb.pickle -c output/color_lb.pickle
 
 """in windows OS,train.py CLI need file directory:
-D:\mylab\cv\FruitNet>python train.py -d dataset -m output/fruits.model -l output/category_lb.pickle -c output/color_lb.pickle
+D:\mylab\cv\FruitNet>python train.py -d dataset -m output/Garbage.model -l output/category_lb.pickle -c output/color_lb.pickle
 """
 
 # set the matplotlib backend so figures can be saved in the background

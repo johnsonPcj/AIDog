@@ -12,7 +12,7 @@
     <ProjectTypeGuids>{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
     <LaunchProvider>Standard Python launcher</LaunchProvider>
     <InterpreterId />
-    <CommandLineArguments>--model output/Garbage.model  --categorybin output/category_lb.pickle --colorbin output/color_lb.pickle  --image examples/2.jpg</CommandLineArguments>
+    <CommandLineArguments>-d dataset -m output/Garbage.model -l output/category_lb.pickle -c output/color_lb.pickle</CommandLineArguments>
     <EnableNativeCodeDebugging>True</EnableNativeCodeDebugging>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />

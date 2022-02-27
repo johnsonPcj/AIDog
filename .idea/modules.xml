@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AIDog.iml" filepath="$PROJECT_DIR$/AIDog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpencvCapture/OpencvCapture.iml" filepath="$PROJECT_DIR$/OpencvCapture/OpencvCapture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyimageresearch/pyimageresearch.iml" filepath="$PROJECT_DIR$/../pyimageresearch/pyimageresearch.iml" />
     </modules>
   </component>
 </project>

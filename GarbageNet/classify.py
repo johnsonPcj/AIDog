@@ -13,6 +13,7 @@
 D:\mylab\AIDog\AIDog\GarbageNet>python classify.py -m output/Garbage.model -l output/category_lb.pickle -c output/color_lb.pickle \
 -i examples/2.jpg
 """
+# import the necessary packages
 import argparse
 import pickle
 
@@ -20,11 +21,24 @@ import cv2
 import numpy as np
 import tensorflow as tf
 from keras.models import load_model
-# import the necessary packages
+
 from keras.preprocessing.image import img_to_array
 
 
 # construct the argument parse and parse the arguments
+def args_parser():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("-m", "--model", required=True,
+                    help="path to trained model model")
+    ap.add_argument("-l", "--categorybin", required=True,
+                    help="path to output category label binarizer")
+    ap.add_argument("-c", "--colorbin", required=True,
+                    help="path to output color label binarizer")
+    ap.add_argument("-i", "--image", required=True,
+                    help="path to input image")
+    args = vars(ap.parse_args())
+    return args
+
 
 def camera():
     # 摄像头
@@ -44,20 +58,6 @@ def camera():
     cap.release()
     # 释放内存
     cv2.destroyAllWindows()
-
-
-def args_parser():
-    ap = argparse.ArgumentParser()
-    ap.add_argument("-m", "--model", required=True,
-                    help="path to trained model model")
-    ap.add_argument("-l", "--categorybin", required=True,
-                    help="path to output category label binarizer")
-    ap.add_argument("-c", "--colorbin", required=True,
-                    help="path to output color label binarizer")
-    ap.add_argument("-i", "--image", required=True,
-                    help="path to input image")
-    args = vars(ap.parse_args())
-    return args
 
 
 def classify(args):
@@ -112,6 +112,7 @@ def classify(args):
     print(np.min(output))
 
     cv2.imshow("output", output)
+
 
 if __name__ == '__main__':
     args = args_parser()

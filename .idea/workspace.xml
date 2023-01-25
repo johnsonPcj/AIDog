@@ -2,7 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b9eed46-b81e-4b7a-88eb-6c661c443660" name="Changes" comment="Insect project">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InsectNet/dataset/Red_Dragonfly/reddragonfly5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AIDog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AIDog.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/red_dragonfly/reddragonfly.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Red_Dragonfly/reddragonfly.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/red_dragonfly/reddragonfly1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Red_Dragonfly/reddragonfly1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/red_dragonfly/reddragonfly10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Red_Dragonfly/reddragonfly10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/red_dragonfly/reddragonfly11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Red_Dragonfly/reddragonfly11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/red_dragonfly/reddragonfly12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Red_Dragonfly/reddragonfly12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/red_dragonfly/reddragonfly13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Red_Dragonfly/reddragonfly13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/red_dragonfly/reddragonfly14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Red_Dragonfly/reddragonfly14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/red_dragonfly/reddragonfly15.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Red_Dragonfly/reddragonfly15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/red_dragonfly/reddragonfly16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Red_Dragonfly/reddragonfly16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/red_dragonfly/reddragonfly17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Red_Dragonfly/reddragonfly17.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/red_dragonfly/reddragonfly18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Red_Dragonfly/reddragonfly18.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/red_dragonfly/reddragonfly19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Red_Dragonfly/reddragonfly19.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/red_dragonfly/reddragonfly2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Red_Dragonfly/reddragonfly2.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/red_dragonfly/reddragonfly20.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Red_Dragonfly/reddragonfly20.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/red_dragonfly/reddragonfly21.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Red_Dragonfly/reddragonfly21.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/red_dragonfly/reddragonfly22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Red_Dragonfly/reddragonfly22.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/red_dragonfly/reddragonfly23.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Red_Dragonfly/reddragonfly23.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/red_dragonfly/reddragonfly24.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Red_Dragonfly/reddragonfly24.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/red_dragonfly/reddragonfly25.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Red_Dragonfly/reddragonfly25.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/red_dragonfly/reddragonfly3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Red_Dragonfly/reddragonfly3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/red_dragonfly/reddragonfly4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Red_Dragonfly/reddragonfly4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/red_dragonfly/reddragonfly5.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/red_dragonfly/reddragonfly6.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Red_Dragonfly/reddragonfly6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/red_dragonfly/reddragonfly7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Red_Dragonfly/reddragonfly7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/red_dragonfly/reddragonfly8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Red_Dragonfly/reddragonfly8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/red_dragonfly/reddragonfly9.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Red_Dragonfly/reddragonfly9.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +40,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Knbssap1P8wtmHquWKMRBRUp0Q" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -21,6 +53,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

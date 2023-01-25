@@ -1,12 +1,12 @@
 # USAGE
-# python classify.py --model output/Garbage.model \
+# python classify.py --model output/Insect.model \
 #	--categorybin output/category_lb.pickle --colorbin output/color_lb.pickle \
 #	--image examples/2.jpg
 
-# python classify.py --model output/Garbage.model \
+# python classify.py --model output/Insect.model \
 #	--categorybin output/category_lb.pickle --colorbin output/color_lb.pickle \
 #	--image examples/2.jpg
-# or:python classify.py -m output/Garbage.model -l output/category_lb.pickle -c output/color_lb.pickle\
+# or:python classify.py -m output/Insect.model -l output/category_lb.pickle -c output/color_lb.pickle\
 #	--image examples/2.jpg
 
 """in windows OS,classify.py CLI need file directory,file directory is according to yourselef ,for example:

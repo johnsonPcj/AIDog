@@ -3,18 +3,44 @@
   <component name="ChangeListManager">
     <list default="true" id="4b9eed46-b81e-4b7a-88eb-6c661c443660" name="Changes" comment="add Insect images">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Red_Dragonfly/reddragonfly5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/InsectNet/examples/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/InsectNet/examples/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/examples/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InsectNet/examples/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/examples/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InsectNet/examples/test_img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/examples/test_img.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InsectNet/output/Garbage.model/keras_metadata.pb" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/output/Garbage.model/keras_metadata.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InsectNet/output/Garbage.model/saved_model.pb" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/output/Garbage.model/saved_model.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InsectNet/output/Garbage.model/variables/variables.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/output/Garbage.model/variables/variables.data-00000-of-00001" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InsectNet/output/Garbage.model/variables/variables.index" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/output/Garbage.model/variables/variables.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InsectNet/output/category_lb.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/output/category_lb.pickle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InsectNet/output_accs.png" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/output_accs.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InsectNet/output_losses.png" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/output_losses.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Green_Cans/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Green_Praying-mantis/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Green_Cans/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Green_Praying-mantis/10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Green_Cans/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Green_Praying-mantis/11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Green_Cans/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Green_Praying-mantis/12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Green_Cans/13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Green_Praying-mantis/13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Green_Cans/14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Green_Praying-mantis/14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Green_Cans/15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Green_Praying-mantis/15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Green_Cans/16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Green_Praying-mantis/16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Green_Cans/17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Green_Praying-mantis/17.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Green_Cans/18.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Green_Praying-mantis/18.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Green_Cans/19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Green_Praying-mantis/19.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Green_Cans/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Green_Praying-mantis/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Green_Cans/20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Green_Praying-mantis/20.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Green_Cans/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Green_Praying-mantis/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Green_Cans/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Green_Praying-mantis/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Green_Cans/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Green_Praying-mantis/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Green_Cans/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Green_Praying-mantis/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Green_Cans/8.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Green_Praying-mantis/8.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Green_Cans/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Green_Praying-mantis/9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Grey_Batteries/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Grey_Cricket/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Grey_Batteries/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Grey_Cricket/10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Grey_Batteries/11.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Grey_Cricket/11.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Grey_Batteries/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Grey_Cricket/12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Grey_Batteries/13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Grey_Cricket/13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Grey_Batteries/14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Grey_Cricket/14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Grey_Batteries/15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Grey_Cricket/15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Grey_Batteries/16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Grey_Cricket/16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Grey_Batteries/17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Grey_Cricket/17.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Grey_Batteries/18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Grey_Cricket/18.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Grey_Batteries/19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Grey_Cricket/19.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Grey_Batteries/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Grey_Cricket/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Grey_Batteries/20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Grey_Cricket/20.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Grey_Batteries/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Grey_Cricket/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Grey_Batteries/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Grey_Cricket/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Grey_Batteries/5.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Grey_Cricket/5.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Grey_Batteries/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Grey_Cricket/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Grey_Batteries/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Grey_Cricket/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InsectNet/dataset/Grey_Batteries/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/InsectNet/dataset/Grey_Cricket/8.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674616978523</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add Insect images">
+      <created>1674618748924</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674618748924</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

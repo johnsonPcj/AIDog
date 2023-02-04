@@ -41,22 +41,22 @@ def args_parser():
 
 
 def camera():
-    # 摄像头
-    cap = cv2.VideoCapture(0)  # 这里如果你是默认的摄像头，那么就是0，否则你要取1
-    while cap.isOpened():  # 检测是否在开启状态
-        ret_flag, Vshow = cap.read()  # 得到每帧图像
-        cv2.imshow("Capture_Test", Vshow)  # 显示图像
-        k = cv2.waitKey(1) & 0xFF  # 按键判断
-        if k == ord(' '):  # 保存
+    # open camera
+    cap = cv2.VideoCapture(0)  # default as camera set to 1 , otherwise set to 1
+    while cap.isOpened():  # if opened then can take graph
+        ret_flag, Vshow = cap.read()  # get image frame
+        cv2.imshow("Capture_Test", Vshow)  # display image
+        k = cv2.waitKey(1) & 0xFF  # press Key
+        if k == ord(' '):  # save image
             try:
-                cv2.imwrite('examples\\test_img.jpg', Vshow)  # 保存路径
+                cv2.imwrite('examples\\test_img.jpg', Vshow)  # image file path and name
                 cv2.imshow("OpencvCapture", Vshow)
             except:
                 raise "Capture picture error"
             break
-    # 释放摄像头
+    # release camera
     cap.release()
-    # 释放内存
+    # release memory
     cv2.destroyAllWindows()
 
 
